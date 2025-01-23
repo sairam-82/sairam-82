@@ -72,22 +72,22 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/sairam-82" target="_blank">
+<a href="https://github.com/sairam-82" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://x.com/SairamMojjada" target="_blank">
+<a href="https://x.com/SairamMojjada" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@https://hashnode.com/@sairam82" target="_blank">
+<a href="https://hashnode.com/@sairam82" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-ram-mojjada-44149a196/" target="_blank">
+<a href="https://www.linkedin.com/in/sai-ram-mojjada-44149a196/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@sairammojjada82" target="_blank">
+<a href="https://medium.com/@sairammojjada82" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/sai.ram8200/" target="_blank">
+<a href="https://www.instagram.com/sai.ram8200/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
