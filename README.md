@@ -6,10 +6,10 @@
 ### <div align="center">I'm Sai Ram, a full-time full-stack developer 👨‍💻 working since 2022 🚀</div>  
   
 
-<div align="center">- Worked on majorly in backend related projects with decent exposure to front-end tech stack.  </div>
+<div align="center">Worked on majorly in backend related projects with decent exposure to front-end tech stack. 🖥️ </div>
   
 
-<div align="center">- Exploring Generative AI and AI agentic Workflows  </div>
+<div align="center">Exploring Generative AI and AI agentic Workflows 🤖 </div>
   
 
 <br/>  
